@@ -17,8 +17,8 @@
 ### 🚀 About Me
 
 - 🎓 I'm currently a student at Ho Chi Minh University of Technology (HCMUT)
-- 🌱 I’m currently learning: **TensorFlow.js, FastAPI, Apache Kafka, gRPC**
-- 🧠 Interested in **AI, Big Data Systems, and Comprehensive AI Applications**
+- 🌱 I’m currently learning: **PyTorch, FastAPI, TypeScript, OpenCV**
+- 🧠 Interested in **AI, Data Mining, Big Data Systems, and Comprehensive AI Applications**
 - 💬 Ask me about **Machine Learning, Deep Learning, Model Deployment, AI Algorithms, and Neural Networks.**
 - ⚡ Fun fact: I love reading books and morning coding :D
 
