@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/TaiTrn3107">
+  <a href="https://github.com/taitrn">
     <img src="https://img.shields.io/github/followers/TaiTrn3107?label=Follow&style=social" alt="GitHub followers" />
   </a>
   <a href="mailto:trananhtai0807@gmail.com">
@@ -27,7 +27,6 @@
 ### 🛠️ Tech Stack
 
 ![Python](https://img.shields.io/badge/-Python-000?&logo=python)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-000?&logo=tensorflow&logoColor=FF6F00)
 ![PyTorch](https://img.shields.io/badge/-PyTorch-000?&logo=pytorch&logoColor=EE4C2C)
 ![Scikit-Learn](https://img.shields.io/badge/-Scikit--Learn-000?&logo=scikit-learn&logoColor=F7931E)
 ![Pandas](https://img.shields.io/badge/-Pandas-000?&logo=pandas&logoColor=150458)
@@ -35,7 +34,7 @@
 ![OpenCV](https://img.shields.io/badge/-OpenCV-000?&logo=opencv&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/-FastAPI-000?&logo=fastapi&logoColor=009688)
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=docker)
-![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=mongodb&logoColor=47A248)
+![MySQL](https://img.shields.io/badge/-MySQL-000?&logo=mysql&logoColor=4479A1)
 ![Git](https://img.shields.io/badge/-Git-000?&logo=git)
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=linux)
 ![Jupyter](https://img.shields.io/badge/-Jupyter-000?&logo=jupyter&logoColor=F37626)
@@ -45,8 +44,8 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TaiTrn3107&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TaiTrn3107&theme=tokyonight" alt="Streak Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=taitrn&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=taitrn&theme=tokyonight" alt="Streak Stats" />
 </p>
 
 ---
