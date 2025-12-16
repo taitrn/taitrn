@@ -31,6 +31,7 @@
 ![Scikit-Learn](https://img.shields.io/badge/-Scikit--Learn-000?&logo=scikit-learn&logoColor=F7931E)
 ![Pandas](https://img.shields.io/badge/-Pandas-000?&logo=pandas&logoColor=150458)
 ![NumPy](https://img.shields.io/badge/-NumPy-000?&logo=numpy&logoColor=013243)
+![Streamlib](https://img.shields.io/badge/-Streamlib-000?&logo=streamlit&logoColor=FF4B4B)
 ![OpenCV](https://img.shields.io/badge/-OpenCV-000?&logo=opencv&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-000?&logo=cplusplus&logoColor=00599C)
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=docker)
@@ -38,7 +39,6 @@
 ![Git](https://img.shields.io/badge/-Git-000?&logo=git)
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=linux)
 ![Jupyter](https://img.shields.io/badge/-Jupyter-000?&logo=jupyter&logoColor=F37626)
-![Streamlib](https://img.shields.io/badge/-Streamlib-000)
 
 
 ---
